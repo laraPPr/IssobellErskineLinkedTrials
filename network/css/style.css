@@ -232,6 +232,8 @@ canvas#sigma_bg_1 {
 
 #mainpanel {
 	margin-top: 15px;
+	/*right: 0px;
+	margin-right: 10px;*/
 	margin-left: 10px;
 	background:#fff;
 	background-color:rgba(255,255,255,0.8);
